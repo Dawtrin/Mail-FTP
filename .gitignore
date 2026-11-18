@@ -1,0 +1,13 @@
+target/
+mailbox/
+resources/
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+*.log
+Lab 5/
+docs/
+
